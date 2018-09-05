@@ -233,7 +233,7 @@ class Navbar extends Component {
           <li className="nav-item mr-1 my-auto">
           <img src={glogo} alt="glogo" className="googleLogo" />
             <GoogleLogin
-              clientId="296954481305-plmc2jf1o7j7t0aignvp73arbk2mt3pq.apps.googleusercontent.com"
+              clientId="48287321499-lvi4imlljm1lqk57r2eg71p5mg4e2176.apps.googleusercontent.com"
               buttonText="Sign in with Google"
               onSuccess={this.login}
               onFailure={this.login}
