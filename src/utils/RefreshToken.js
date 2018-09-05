@@ -71,7 +71,7 @@ export function refreshExpiredJWT() {
       currentUserPromise = window.gapi.auth2
         .init({
           client_id:
-            '296954481305-plmc2jf1o7j7t0aignvp73arbk2mt3pq.apps.googleusercontent.com',
+            '48287321499-lvi4imlljm1lqk57r2eg71p5mg4e2176.apps.googleusercontent.com',
           scope:
             'https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/plus.me https://www.googleapis.com/auth/userinfo.email openid email profile'
         })
