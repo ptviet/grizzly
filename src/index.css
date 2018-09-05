@@ -1,0 +1,69 @@
+html {
+  height: 100%;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+  min-height: 70vh !important;
+  width: 100%;
+}
+
+.App,
+#root,
+body > #root > .App,
+.griz-portal {
+  padding: 0;
+  margin: 0;
+  min-height: 70vh !important;
+}
+
+.griz-portal-parent {
+  padding: 0;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  min-height: 70vh !important;
+}
+
+.googleLogo {
+  height: 30px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #4285f4;
+  border-right-style: none;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #4285f4;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: #4285f4;
+}
+
+.gButton {
+  background-color: #4285f4;
+  color: #fff;
+  height: 30px;
+  width: 122px !important;
+  border: none;
+  text-align: center;
+  font-size: 12px;
+  display: inline-block;
+  transition: background-color 0.218s, border-color 0.218s, box-shadow 0.218s;
+  font-family: Roboto, arial, sans-serif;
+  cursor: pointer;
+}
+
+.image-thumb {
+  margin-bottom: 15px;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.image-thumb:hover {
+  margin-bottom: 15px;
+  transform: scale(1.1);
+  opacity: 0.9;
+}
