@@ -1,0 +1,10 @@
+insert into vendor (name, contact_num, website, email, bio, enabled) values ('Digital Watch Co.', '646 970 2189', 'https://arizona.edu', 'lillem0@mapquest.com', 'They sell Digital Watches', true);
+insert into vendor (name, contact_num, website, email, bio, enabled) values ('Analog Watch Co.', '425 334 9480', 'http://wsj.com', 'cflintoffe1@mysql.com', 'Analog Watch Co.', true);
+insert into vendor (name, contact_num, website, email, bio, enabled) values ('Mirrorless Camera Co.', '961 191 7348', 'https://netvibes.com', 'hfrichley2@bizjournals.com', 'They sell Mirrorless Cameras', true);
+insert into vendor (name, contact_num, website, email, bio, enabled) values ('DSLR Camera Co.', '779 125 8642', 'https://businessinsider.com', 'jmonkton3@ihg.com', 'They sell DSLR Cameras', true);
+insert into vendor (name, contact_num, website, email, bio, enabled) values ('Mobile Phone Co.', '586 290 7027', 'http://google.fr', 'jdumbell4@51.la', 'They sell Mobile Phones', true);
+insert into vendor (name, contact_num, website, email, bio, enabled) values ('Desk Phone Co.', '274 632 8190', 'http://nih.gov', 'torwell5@auda.org.au', 'They sell Desk Phones', true);
+insert into vendor (name, contact_num, website, email, bio, enabled) values ('Business Laptop Co.', '475 573 1059', 'https://diigo.com', 'jbisp6@mozilla.org', 'They sell Business Laptops', true);
+insert into vendor (name, contact_num, website, email, bio, enabled) values ('Gaming Laptop Co.', '404 607 2817', 'http://dedecms.com', 'acatanheira7@gizmodo.com', 'They sell Gaming Laptops', true);
+insert into vendor (name, contact_num, website, email, bio, enabled) values ('Bullet Blender Co.', '258 605 2764', 'https://comsenz.com', 'rsaynor8@whitehouse.gov', 'They sell Bullet Blenders', true);
+insert into vendor (name, contact_num, website, email, bio, enabled) values ('Cocktail Blender Co.', '636 561 7079', 'http://simplemachines.org', 'jpover9@economist.com', 'They sell Cocktail Blenders', true);
